@@ -321,10 +321,10 @@ Conflicts: com.chloe.gravitation17
 Replaces: com.chloe.gravitation17
 Provides: com.chloe.gravitation17
 Filename: debs/com.chloe.physpringboard_1.9.0_iphoneos-arm64.deb
-Size: 66342
-MD5sum: d2d04191da7fd1b17cda233490a09d28
-SHA1: 59a6fb79299a89636ae8688a11c9a86fd81b2f21
-SHA256: 7ba94aee982efa345c2c9e7e0a1e3fd760646420086ccc46e9d40049437bde58
+Size: 66252
+MD5sum: 50eb8b876bf6148f0f2ca8125102c85a
+SHA1: c348265683bd687d0ab85f9b60a1380570a970e1
+SHA256: 62ef8a7ea4656c2105e029a8b05edac1fb36843e59607897a5fdec6783bafb4a
 Section: Tweaks
 Description: Shake SpringBoard icons loose with configurable physics on rootless Dopamine.
 Author: Chloe
@@ -407,6 +407,23 @@ Size: 53994
 MD5sum: e7b990dd4e1e3b51327ca1927863751a
 SHA1: dde703bf10455af8d024eb8c216665521e2e3f60
 SHA256: febd7a30bbc0ae773200493019e91bbc5bdfe39763fa8ad193f8c3c182c29eea
+Section: Tweaks
+Description: Plays a hit sound and displays a configurable hitmarker whenever the screen is tapped.
+Author: chloe
+Icon: file:///var/jb/Library/PreferenceBundles/TapHitSoundPrefs.bundle/icon.png
+Name: TapHitSound
+
+Package: com.chloe.taphitsound
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: chloe
+Installed-Size: 436
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/TapHitSound_1.2.1_animation_toggle_rootless.deb
+Size: 54478
+MD5sum: 99f8802db9d294fb9442ea3728f79f9c
+SHA1: b54273d91924f8596d0b52418e7ab4de245331f9
+SHA256: 32429d5d63cd79732a0cb87d06ec423cfae6c61666d589cd44df0ca74a03d331
 Section: Tweaks
 Description: Plays a hit sound and displays a configurable hitmarker whenever the screen is tapped.
 Author: chloe
