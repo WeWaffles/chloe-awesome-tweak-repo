@@ -167,6 +167,23 @@ Description: Makes icons jiggle violently and plays music in Home Screen edit mo
 Author: chloe
 Name: Jigglephysx
 
+Package: com.chloe.panicjiggle
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: chloe
+Installed-Size: 1332
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/Jigglephysx_1.1.1_icon_rootless.deb
+Size: 988166
+MD5sum: 392d2f21df3578d1371a6577193a2e4a
+SHA1: db43b350b0a3c3311e74963e2bb9832e9f47edc3
+SHA256: 3452fd0a8e37481fa45828a0c89507a32567c5d6305ee1bc0db8d82a09ec8dcf
+Section: Tweaks
+Description: Makes icons jiggle violently and plays music in Home Screen edit mode.
+Author: chloe
+Icon: file:///var/jb/Library/PreferenceBundles/JigglephysxPrefs.bundle/icon.png
+Name: Jigglephysx
+
 Package: com.chloe.physpringboard
 Version: 1.3.0
 Architecture: iphoneos-arm64
