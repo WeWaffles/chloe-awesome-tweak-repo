@@ -223,3 +223,19 @@ Author: Chloe
 Icon: file:///var/jb/Library/PreferenceBundles/PhyspringboardPrefs.bundle/icon.png
 Name: Physpringboard
 
+Package: com.example.anybattery
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Local
+Installed-Size: 344
+Depends: mobilesubstrate, preferenceloader, firmware (>= 17.0)
+Filename: debs/AnyBattery-1.0.0-rootless.deb
+Size: 9500
+MD5sum: 5787b27ab02ebb577bbbe168a8362565
+SHA1: 9c1811edec3be58958029866576bbdf12c0f0df6
+SHA256: 7004e6c9ca7176e8bc703a9d981e34afc1e5bdd2486e32699c25fca161d19c9d
+Section: Tweaks
+Description: Spoof the displayed and app-reported battery level to any numeric value.
+Author: Local
+Name: AnyBattery
+
