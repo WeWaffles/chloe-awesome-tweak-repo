@@ -1,5 +1,5 @@
 Package: com.chloe.anybattery
-Version: 1.0.5
+Version: 1.0.7
 Architecture: iphoneos-arm64
 Maintainer: Chloe
 Installed-Size: 396
@@ -7,33 +7,15 @@ Depends: mobilesubstrate, preferenceloader, firmware (>= 17.0)
 Conflicts: com.example.anybattery
 Replaces: com.example.anybattery
 Provides: com.example.anybattery
-Filename: debs/AnyBattery-1.0.5-rootless.deb
-Size: 31452
-MD5sum: 281f2d2b872d08ff164687f7032732b2
-SHA1: ef730510db998d3cdef455eca3984bda344c3650
-SHA256: 5fb30e88477a6770212663bbb181d8a43e01706d0df77bf758538e20cee775fc
+Filename: debs/AnyBattery-1.0.7-rootless.deb
+Size: 33106
+MD5sum: 2898e7cc645b35861f5565183e2cf0b5
+SHA1: 7428ecf0f56d52295bb12afbb68f3d1e40b0ea8e
+SHA256: 186f9b44a437dddcafbaa081038f678a67ff12b5f9199d2e72a50eae5b6897ee
 Section: Tweaks
 Description: Spoof the displayed and app-reported battery level to any numeric value.
 Author: Chloe
-Name: AnyBattery
-
-Package: com.chloe.anybattery
-Version: 1.0.6
-Architecture: iphoneos-arm64
-Maintainer: Chloe
-Installed-Size: 392
-Depends: mobilesubstrate, preferenceloader, firmware (>= 17.0)
-Conflicts: com.example.anybattery
-Replaces: com.example.anybattery
-Provides: com.example.anybattery
-Filename: debs/AnyBattery-1.0.6-rootless.deb
-Size: 31448
-MD5sum: fbd6c7af754a7f4677f064f86e232936
-SHA1: 984f2fe952e223fd0d935b3342440f609088b21d
-SHA256: 155a94255822f451bdfad2ddcfcd67fb90f2d92471e671f599c37e9d758dee95
-Section: Tweaks
-Description: Spoof the displayed and app-reported battery level to any numeric value.
-Author: Chloe
+Icon: file:///var/jb/Library/PreferenceBundles/AnyBatteryPrefs.bundle/icon.png
 Name: AnyBattery
 
 Package: com.chloe.flashbang
