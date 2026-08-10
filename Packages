@@ -293,3 +293,19 @@ Description: Plays a hit sound and displays a configurable hitmarker whenever th
 Author: chloe
 Name: TapHitSound
 
+Package: com.chloe.taphitsound
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: chloe
+Installed-Size: 568
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/TapHitSound_1.1.1_icon_rootless.deb
+Size: 198954
+MD5sum: 10e85dbd1c8f5e3c30bc11df3e2ef1c1
+SHA1: f47fda96b4b92a6025fd9bcc62705aa56e412a69
+SHA256: b31b3a4dd624b269d61fd259e1ac092261df10977ddf0a510a17c5aade7af2df
+Section: Tweaks
+Description: Plays a hit sound and displays a configurable hitmarker whenever the screen is tapped.
+Author: chloe
+Name: TapHitSound
+
