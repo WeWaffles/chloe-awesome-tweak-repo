@@ -396,3 +396,20 @@ Author: chloe
 Icon: file:///var/jb/Library/PreferenceBundles/TapHitSoundPrefs.bundle/icon.png
 Name: TapHitSound
 
+Package: com.chloe.taphitsound
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: chloe
+Installed-Size: 436
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/TapHitSound_1.2.0_multitouch_rootless.deb
+Size: 53994
+MD5sum: e7b990dd4e1e3b51327ca1927863751a
+SHA1: dde703bf10455af8d024eb8c216665521e2e3f60
+SHA256: febd7a30bbc0ae773200493019e91bbc5bdfe39763fa8ad193f8c3c182c29eea
+Section: Tweaks
+Description: Plays a hit sound and displays a configurable hitmarker whenever the screen is tapped.
+Author: chloe
+Icon: file:///var/jb/Library/PreferenceBundles/TapHitSoundPrefs.bundle/icon.png
+Name: TapHitSound
+
