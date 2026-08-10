@@ -321,10 +321,10 @@ Conflicts: com.chloe.gravitation17
 Replaces: com.chloe.gravitation17
 Provides: com.chloe.gravitation17
 Filename: debs/com.chloe.physpringboard_1.9.0_iphoneos-arm64.deb
-Size: 65390
-MD5sum: d7457223a0e887f6668e6d97a5e7a5d8
-SHA1: 9f88bf88cdfd537f85abdb02c5c21c24200470a1
-SHA256: a7d71e6e9e1eff89a2b3934622d4bda939d26ab01c134d958360268642d483c1
+Size: 66148
+MD5sum: 9076a50a7ed4a7df58a1d3cbd9b1e348
+SHA1: 81ed184afb300e4c001cc2587f7fe206541e8b2e
+SHA256: 0e6278b8168d384ab8bda07475bef2ee2b21f395225cacb097e6023c1993bfe9
 Section: Tweaks
 Description: Shake SpringBoard icons loose with configurable physics on rootless Dopamine.
 Author: Chloe
