@@ -117,6 +117,23 @@ Author: chloe
 Icon: file:///var/jb/Library/PreferenceBundles/FlashbangPrefs.bundle/icon.png
 Name: Flashbang
 
+Package: com.chloe.flashbang
+Version: 1.6.0
+Architecture: iphoneos-arm64
+Maintainer: chloe
+Installed-Size: 492
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/Flashbang_1.6.0_max_haptics_rootless.deb
+Size: 135788
+MD5sum: 9d9941954085f01ebbe780ceb7a50b3c
+SHA1: ef04caccf856d3b420ffcc5e60483d999e3f392b
+SHA256: 6d926e32108b20057f817786195c939f8c6f6db9f73373ceaeb477aa235e7f97
+Section: Tweaks
+Description: Shows a five-second white flash and plays a sound after a screenshot.
+Author: chloe
+Icon: file:///var/jb/Library/PreferenceBundles/FlashbangPrefs.bundle/icon.png
+Name: Flashbang
+
 Package: com.chloe.physpringboard
 Version: 1.3.0
 Architecture: iphoneos-arm64
