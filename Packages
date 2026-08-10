@@ -18,6 +18,26 @@ Author: Chloe
 Icon: file:///var/jb/Library/PreferenceBundles/AnyBatteryPrefs.bundle/icon.png
 Name: AnyBattery
 
+Package: com.chloe.anybattery
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: Chloe
+Installed-Size: 396
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Conflicts: com.example.anybattery
+Replaces: com.example.anybattery
+Provides: com.example.anybattery
+Filename: debs/AnyBattery-1.0.8-rootless.deb
+Size: 34164
+MD5sum: beb6148727d30a9d8a4556e27d02dc0b
+SHA1: 7871e6e529fc045174dfe53c188077a063b1abd3
+SHA256: b056e49b7025703945b2b2620fefa6e9a6922a99f4eaecb223f5eb06289058b8
+Section: Tweaks
+Description: Spoof the displayed and app-reported battery level to any numeric value on iOS 16 and 17.
+Author: Chloe
+Icon: file:///var/jb/Library/PreferenceBundles/AnyBatteryPrefs.bundle/icon.png
+Name: AnyBattery
+
 Package: com.chloe.bouncyalerts
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -150,6 +170,22 @@ Description: Shows a five-second white flash and plays a sound after a screensho
 Author: chloe
 Icon: file:///var/jb/Library/PreferenceBundles/FlashbangPrefs.bundle/icon.png
 Name: Flashbang
+
+Package: com.chloe.globalbutton
+Version: 0.7.0
+Architecture: iphoneos-arm64
+Maintainer: chloe
+Installed-Size: 416
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/Springjectives_0.7.0_rootless.deb
+Size: 37950
+MD5sum: d8bc644596f7c2d727a49d20cd9232e8
+SHA1: d9b94bbbd54cac21b6154c37f2a56b7ce56d8547
+SHA256: dbb70f733abec4449f2f19de4e623a5280d392ea7828e0ccd378bdbb8a2e2c4b
+Section: Tweaks
+Description: Have you ever wanted to race a friend doing tasks on iOS? Well look no further than Springjectives! With this tweak you can race your friend to do tasks on your phone, with more coming soon. For example, screenshotting, entering app edit mode, opening control center. (Disclaimer, a permanent server has not been set up yet and until then will not work without a self hosted binary. This will be fixed soon)
+Author: chloe
+Name: Springjectives
 
 Package: com.chloe.panicjiggle
 Version: 1.0.1
