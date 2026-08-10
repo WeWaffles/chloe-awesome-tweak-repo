@@ -247,6 +247,22 @@ Description: Have you ever wanted to race a friend doing tasks on iOS? Well look
 Author: chloe
 Name: Springjectives
 
+Package: com.chloe.globalbutton
+Version: 0.7.2
+Architecture: iphoneos-arm64
+Maintainer: chloe
+Installed-Size: 416
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/Springjectives_0.7.2_tunnel_restart_rootless.deb
+Size: 38068
+MD5sum: 14ea8dfc6d069468012221682b007738
+SHA1: 2f6127b9bef169568c9c5bc63d4450dbab83403a
+SHA256: e7a0df94405c107546e25b7b58bcc79b8756d256a62be86a0b3277d5956d7e13
+Section: Tweaks
+Description: Have you ever wanted to race a friend doing tasks on iOS? Well look no further than Springjectives! With this tweak you can race your friend to do tasks on your phone, with more coming soon. For example, screenshotting, entering app edit mode, opening control center. (Disclaimer, a permanent server has not been set up yet and until then will not work without a self hosted binary. This will be fixed soon)
+Author: chloe
+Name: Springjectives
+
 Package: com.chloe.panicjiggle
 Version: 1.0.1
 Architecture: iphoneos-arm64
