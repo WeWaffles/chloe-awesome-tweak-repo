@@ -19,16 +19,16 @@ Icon: file:///var/jb/Library/PreferenceBundles/AnyBatteryPrefs.bundle/icon.png
 Name: AnyBattery
 
 Package: com.chloe.bouncyalerts
-Version: 1.0.5
+Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: chloe
 Installed-Size: 348
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/BouncyAlerts_1.0.5_live_speed_slider_rootless.deb
-Size: 14528
-MD5sum: 74e3bf0c1a14c4e5c818a936e84a3bd4
-SHA1: def0b9ca69ac6dcb92d85460f78c7e8a15deecb2
-SHA256: 7ae1ad357560688dc56d16fd5e8652a7e02fab7b11f491ab96bb183ec5a31222
+Filename: debs/BouncyAlerts_1.0.6_notify_speed_rootless.deb
+Size: 14842
+MD5sum: 468ab5a74d4b07343848f78c0b29636f
+SHA1: daaa1a50e941723db5ece5afb72aaaaf4b6ae257
+SHA256: a59216d1f8d7c8a740eb8d037115b7a0ab50d932dc3186833c2518e37f4269c9
 Section: Tweaks
 Description: Makes SpringBoard system alert popups bounce around the screen.
 Author: chloe
