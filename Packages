@@ -1,3 +1,19 @@
+Package: com.chloe.flashbang
+Version: 1.3.0
+Architecture: iphoneos-arm64
+Maintainer: chloe
+Installed-Size: 464
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/Flashbang_1.3.0_screenshot_action_rootless.deb
+Size: 108834
+MD5sum: 23554901504ac85b9ff3abf4667e30e6
+SHA1: 5ee61a5c5f3446cf35946cf9c44406e12d5b1988
+SHA256: 76dc376ee721a742bf9854135051a503dc3e385b60e2a271cd75389af9e4c5d0
+Section: Tweaks
+Description: Shows a five-second white flash and plays a sound after a screenshot.
+Author: chloe
+Name: Flashbang
+
 Package: com.chloe.physpringboard
 Version: 1.3.0
 Architecture: iphoneos-arm64
