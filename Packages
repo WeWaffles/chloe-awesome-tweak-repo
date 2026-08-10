@@ -239,3 +239,19 @@ Description: Spoof the displayed and app-reported battery level to any numeric v
 Author: Local
 Name: AnyBattery
 
+Package: com.example.anybattery
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Local
+Installed-Size: 372
+Depends: mobilesubstrate, preferenceloader, firmware (>= 17.0)
+Filename: debs/AnyBattery-1.0.2-rootless.deb
+Size: 33774
+MD5sum: fc60da5c384d54ddaed7b3c83d681479
+SHA1: 001f27ea9f89555719941de4b1bc14469877ec37
+SHA256: a7b5636d1c8f58bbc8b3e123c3f8b070f11b76c1abd54c8e41296030fd892a8e
+Section: Tweaks
+Description: Spoof the displayed and app-reported battery level to any numeric value.
+Author: Local
+Name: AnyBattery
+
