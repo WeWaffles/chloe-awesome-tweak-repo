@@ -277,3 +277,19 @@ Author: Chloe
 Icon: file:///var/jb/Library/PreferenceBundles/PhyspringboardPrefs.bundle/icon.png
 Name: Physpringboard
 
+Package: com.chloe.taphitsound
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: chloe
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: debs/TapHitSound_1.0.1_once_per_tap_rootless.deb
+Size: 10206
+MD5sum: 93564779d398037efcc9e72b6ebc1e8f
+SHA1: 7d4609a5a1438bedde1e2f572cf75d3654752ee1
+SHA256: e737e6e5c2c9932971ea915037a0a7239837adf1d83e658a46246813e47ce8ec
+Section: Tweaks
+Description: Plays a hit sound whenever the screen is tapped.
+Author: chloe
+Name: TapHitSound
+
