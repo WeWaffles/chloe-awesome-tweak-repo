@@ -78,6 +78,26 @@ Author: Chloe
 Icon: file:///var/jb/Library/PreferenceBundles/AnyBatteryPrefs.bundle/icon.png
 Name: AnyBattery
 
+Package: com.chloe.anybattery
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Chloe
+Installed-Size: 428
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Conflicts: com.example.anybattery
+Replaces: com.example.anybattery
+Provides: com.example.anybattery
+Filename: debs/AnyBattery-1.1.1-rootless.deb
+Size: 38446
+MD5sum: d5529406d0fb2f16a464b13c2792c021
+SHA1: d625958623a44b8cb060503a340b28bd9f755b91
+SHA256: c60fb627a986891795fdc0d58c5924a99f0aba0b9f71e4e086e5421e894efaba
+Section: Tweaks
+Description: Spoof the displayed and app-reported battery level to any numeric value on iOS 16 and 17.
+Author: Chloe
+Icon: file:///var/jb/Library/PreferenceBundles/AnyBatteryPrefs.bundle/icon.png
+Name: AnyBattery
+
 Package: com.chloe.bouncyalerts
 Version: 1.1.0
 Architecture: iphoneos-arm64
