@@ -19,6 +19,26 @@ Icon: file:///var/jb/Library/PreferenceBundles/PhyspringboardPrefs.bundle/icon.p
 Name: Physpringboard
 
 Package: com.chloe.physpringboard
+Version: 1.7.11
+Architecture: iphoneos-arm64
+Maintainer: Chloe
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.chloe.gravitation17
+Replaces: com.chloe.gravitation17
+Provides: com.chloe.gravitation17
+Filename: debs/com.chloe.physpringboard_1.7.11_iphoneos-arm64.deb
+Size: 57266
+MD5sum: 19c9adb9c9a4607953314a04d2fffd8b
+SHA1: 8bfcc8e4890129d60dbcef3c3a7c8d7ca6224a73
+SHA256: 53534bf25a71bb69a2fd4e16dbb2726399721252329d3f9e77507822d6b5b252
+Section: Tweaks
+Description: Shake SpringBoard icons loose with configurable physics on rootless Dopamine.
+Author: Chloe
+Icon: file:///var/jb/Library/PreferenceBundles/PhyspringboardPrefs.bundle/icon.png
+Name: Physpringboard
+
+Package: com.chloe.physpringboard
 Version: 1.7.3
 Architecture: iphoneos-arm64
 Maintainer: Chloe
